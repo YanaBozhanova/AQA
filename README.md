@@ -1,5 +1,9 @@
 # AQA
 Обучение автоматизации тестирования
+
+Hello, everyone!
+
 My first commit
-My furst repository
+
+My first repository
 
